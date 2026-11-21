@@ -2,7 +2,7 @@
 
 I build web projects with JavaScript and React, from the interface to the APIs behind it.
 
-[Portfolio](https://bikas15.github.io/portfolio/) · [Bikas Exchange](https://bikas-exchange.onrender.com/) · [GitHub Pages demo](https://bikas15.github.io/bikas-exchange/)
+[Portfolio](https://bikas15.github.io/portfolio/) · · [GitHub Pages demo](https://bikas15.github.io/bikas-exchange/)
 
 ## Featured project · Bikas Exchange
 
