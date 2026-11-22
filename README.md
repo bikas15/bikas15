@@ -1,4 +1,8 @@
-# Selected projects
+**Software Engineering student at Nepal College of Information Technology (NCIT)**
+
+I build full-stack web applications and developer tools.
+
+## Selected projects
 
 - **SystemMirror** maps JavaScript and PHP dependencies and shows which files could be affected by a change. The demo traces a change to a currency formatter through an example checkout app.\
   *React · PHP · Node.js · TiDB*\
