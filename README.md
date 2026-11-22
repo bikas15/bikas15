@@ -18,5 +18,4 @@ I build full-stack web applications and developer tools.
 
 [Get in touch](https://bikasbanjade.com.np/#contact)
 
-> Be who you are and say what you feel because those who mind don't matter and those who matter don't mind\
-> **bikas15**
+> Be who you are and say what you feel because those who mind don't matter and those who matter don't mind
