@@ -1,21 +1,21 @@
 # Bikas Banjade
 
-I build web projects with JavaScript and React, from the interface to the APIs behind it.
+**Software Engineering student at Nepal College of Information Technology (NCIT)**
 
-[Portfolio](https://bikas15.github.io/portfolio/) · · [GitHub Pages demo](https://bikas15.github.io/bikas-exchange/)
+I build full-stack web applications and developer tools. My recent work includes tracing the impact of code changes, building a workspace for debugging, and helping students find hostels near campus.
 
-## Featured project · Bikas Exchange
+[Portfolio](https://bikasbanjade.com.np/) · [Get in touch](https://bikasbanjade.com.np/#contact)
 
-A crypto market dashboard and paper-trading simulator with CoinMarketCap prices, candlestick charts, and technical indicators.
+## Selected projects
 
-| Try it | What to explore |
-| --- | --- |
+- **SystemMirror** maps JavaScript and PHP dependencies and shows which files could be affected by a change. The demo traces a change to a currency formatter through an example checkout app.\
+  *React · PHP · Node.js · TiDB*\
+  [Try the demo](https://bikasbanjade.com.np/systemmirror/) · [View the public showcase](https://github.com/bikas15/systemmirror-demo)
 
-| [GitHub Pages demo](https://bikas15.github.io/bikas-exchange/) | Spot and Futures simulation with sample prices |
-| [Source code](https://github.com/bikas15/bikas-exchange) | React frontend and Node.js API |
+- **Bugs Finder** combines AI-assisted code analysis, sandboxed execution, and saved reports in one workspace.\
+  *React · Django REST Framework · PostgreSQL*\
+  [Try the demo](https://bikas15.github.io/-bugs_finder/#/) · [View source](https://github.com/bikas15/-bugs_finder)
 
-## Tools I use
-
-- **Frontend** · React, JavaScript, HTML, CSS
-- **Backend** · Node.js, SQLite
-- **Deployment** · GitHub Pages, Render
+- **Hostel Hub** helps students find hostels around Kathmandu and compare rent, locations, and listings on a map.\
+  *React · Leaflet · Node.js · MongoDB*\
+  [Try the demo](https://bikas15.github.io/Hostel-Khojau/#/) · [View source](https://github.com/bikas15/Hostel-Khojau)
