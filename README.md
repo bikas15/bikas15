@@ -1,12 +1,4 @@
-# Bikas Banjade
-
-**Software Engineering student at Nepal College of Information Technology (NCIT)**
-
-I build full-stack web applications and developer tools. My recent work includes tracing the impact of code changes, building a workspace for debugging, and helping students find hostels near campus.
-
-[Portfolio](https://bikasbanjade.com.np/) · [Get in touch](https://bikasbanjade.com.np/#contact)
-
-## Selected projects
+# Selected projects
 
 - **SystemMirror** maps JavaScript and PHP dependencies and shows which files could be affected by a change. The demo traces a change to a currency formatter through an example checkout app.\
   *React · PHP · Node.js · TiDB*\
@@ -20,4 +12,7 @@ I build full-stack web applications and developer tools. My recent work includes
   *React · Leaflet · Node.js · MongoDB*\
   [Try the demo](https://bikas15.github.io/Hostel-Khojau/#/) · [View source](https://github.com/bikas15/Hostel-Khojau)
 
-> Be yourself, speak your mind, and don’t let the fear of judgment keep you in the harbor.
+[Get in touch](https://bikasbanjade.com.np/#contact)
+
+> Be yourself, speak your mind, and don’t let the fear of judgment keep you in the harbor.\
+> **bikas15**
