@@ -18,5 +18,5 @@ I build full-stack web applications and developer tools.
 
 [Get in touch](https://bikasbanjade.com.np/#contact)
 
-> Be yourself, speak your mind, and don’t let the fear of judgment keep you in the harbor.\
+> Be who you are and say what you feel because those who mind don't matter and those who matter don't mind\
 > **bikas15**
