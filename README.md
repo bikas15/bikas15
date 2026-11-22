@@ -19,3 +19,5 @@ I build full-stack web applications and developer tools. My recent work includes
 - **Hostel Hub** helps students find hostels around Kathmandu and compare rent, locations, and listings on a map.\
   *React · Leaflet · Node.js · MongoDB*\
   [Try the demo](https://bikas15.github.io/Hostel-Khojau/#/) · [View source](https://github.com/bikas15/Hostel-Khojau)
+
+> Be yourself, speak your mind, and don’t let the fear of judgment keep you in the harbor.
